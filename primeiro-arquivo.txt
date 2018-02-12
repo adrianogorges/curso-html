@@ -1,3 +1,1 @@
-criando um arquivo para repositorio
-segunda linha do arquivogit 
-treceira alteracao acho que isso ta errado
+criando um arquivo para repositorio.
