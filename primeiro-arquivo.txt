@@ -1,1 +1,2 @@
-criando um arquivo para repositorio.
+criando um arquivo para repositorio
+segunda linha do arquivo git 
