@@ -1,3 +1,2 @@
 criando um arquivo para repositorio
 segunda linha do arquivo git 
-ota coisa errda
